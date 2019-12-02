@@ -1,4 +1,4 @@
-import java.awt.*;  //readme-edits
+import java.awt.*;
 import javax.swing.*;
 import java.awt.EventQueue;
 import javax.swing.JFrame;
